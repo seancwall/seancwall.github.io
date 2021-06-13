@@ -203,7 +203,7 @@ h2 ~ p {
     box-sizing: border-box;
     color: #fff;
     display: inline-block;
-    font-family: helvetica, arial, sans;
+    font-family: helvetica, arial, sans, serif;
     font-size: 1rem;
     font-weight: bold;
     height: 2.5em;
